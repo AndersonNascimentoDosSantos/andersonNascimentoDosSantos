@@ -13,7 +13,7 @@
   
   <div align = "center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=andersonnascimentoDosSantos)](https://git.io/streak-stats)
+  
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andersonnascimentoDosSantos&theme=highcontrast)](https://git.io/streak-stats)
   
 </div>
