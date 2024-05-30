@@ -4,7 +4,6 @@
   </h1>
 </div>
 
-
 <div align="center">
   <div align='center'>
   <img height="194px" src="https://github-readme-stats.vercel.app/api?username=AndersonNascimentoDosSantos&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
@@ -12,7 +11,6 @@
 </div>
   
   <div align = "center">
-  
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andersonnascimentoDosSantos&theme=highcontrast)](https://git.io/streak-stats)
   
